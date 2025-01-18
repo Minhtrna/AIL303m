@@ -1,0 +1,54 @@
+,Question,Option A,Option B,Option C,Option D
+0,Which of the following machine learning algorithms is based on the concept of bagging?,A.Decision Tree,B.Support Vector Machines (SVM),C.Random Forest,D.k-Nearest Neighbors (k-NN)
+1,Identify the disadvantages of decision trees.,A.Prone to overfitting,B.Difficult to interpret,C.Require large amounts of training data,D.Slow to train
+2,What is the term used to describe the process through which machine learning algorithms create models using sample data?,A.Training,B.Learning,C.Modeling,D.Prediction
+3,Machine learning is a subset of _______________________.,A.Artificial intelligence (AI),B.Data science,C.Computer programming,D.Robotics
+4,__________ is a machine learning technique which helps to detect outliers in data?,A.Classification,B.Regression,C.Clustering,D.Anomaly detection
+5,"Identify the type of learning, which is used for labeled training dat",A.a. Supervised learning,B.Unsupervised learning,C.Reinforcement learning,D.Semi-supervised learning
+6,Identify from the following in which dimensionality reduction reduces features are used.,A.Feature extraction,B.Feature selection,C.Feature engineering,D.Feature augmentation
+7,______________ is the father of machine learning programs.,A.Alan Turing,B.John McCarthy,C.Geoffrey Hinton,D.Andrew Ng
+8,The most important phase in genetic algorithms is _____________.,A.Selection,B.Crossover,C.Mutation,D.Fitness evaluation
+9,Which of the following issues in machine learning are frequently used?,A.Classification,B.Regression,C.Clustering,D.All of the above
+10,Choose the false options regarding regression in AI.,A.Regression is a type of supervised learning,B.Regression predicts continuous values,C.Regression can have multiple independent variables,D.Regression cannot handle categorical data
+11,Which of the following are successful applications of machine learning.,A.Image recognition,B.Natural language processing,C.Fraud detection,D.All of the above
+12,Which of the following is not a type of learning _________.,A.Supervised learning,B.Unsupervised learning,C.Reinforcement learning,D.Creating common graph types
+13,Which of the following learning algorithms is used to learn “facial identities for facial expressions”?,A.Supervised learning,B.Unsupervised learning,C.Reinforcement learning,D.Deep learning
+14,Which of the model that was trained with only a single batch of data,A.Batch learning model,B.Online learning model,C.Reinforcement learning model,D.Single-batch learning model
+15,Which of the correct applications is used in machine learning for a large database?,A.Data mining,B.Deep learning,C.Big data analytics,D.Pattern recognition
+16,From the following which one of the numerical functions is incorrect for various function representations of machine learning.,A.Linear regression,B.Logistic regression,C.Decision trees,D.K-means clustering
+17,The FIND-S algorithm ignores __________.,A.Positive examples,B.Negative examples,C.Both positive and negative examples,D.None of the above
+18,Which one is the correct definition of neuro software:,A.Software that simulates the behavior of a neuron,B.Software used for neural network training,C.Software for neurofeedback training,D.None of the above
+19,CLT stands for _________________.,A.Central Limit Theorem,B.Confidence Level and Tolerance,C.Continuous Learning Technique,D.Cross-Language Transfer
+20,Pick one of the following to represent the limitations of the backpropagation rule.,A.Can get stuck in local minima,B.Requires labeled training data,C.Limited to feedforward neural networks,D.All of the above
+21,Which one of the following is an instance-based learner.,A.Support Vector Machines (SVM),B.k-Nearest Neighbors (k-NN),C.Decision Tree,D.Naive Bayes
+22,Choose the correct advantages of CBR.,A.It can handle complex and dynamic domains,B.It can reuse past experiences,C.It can provide explanations for its solutions,D.All of the above
+23,What are the difficulties of the k-nearest neighbor algorithm?,A.Sensitive to the choice of k,B.Computationally expensive for large datasets,C.Requires feature scaling,D.All of the above
+24,How many types of layers in radial basis function.,A.One,B.Two,C.Three,D.It can vary
+25,Which of the following is an application of CBR?,A.Speech recognition,B.Recommender systems,C.Anomaly detection,D.Text classification
+26,Different search and optimization methods are used in machine learning. Choose one of the following that does not involve an evolutionary computation.,A.Genetic algorithms,B.Particle swarm optimization,C.Simulated annealing,D.K-nearest neighbors
+27,Which of the following data are required for analyzing ML algorithms.,A.Training the model,B.Evaluating the model’s performance,C.Interpreting the results,D.All of the above
+28,Select the metrics and tools that are most frequently used to evaluate classification models.,"A.Accuracy, precision, recall, F1 score, and confusion matrix","B.Mean squared error, R-squared, and residual plots","C.Silhouette coefficient, Rand index, and Davies-Bouldin index","D.Area under the ROC curve, precision-recall curve, and lift curve"
+29,PAC stands for ____________.,A.Probabilistic Approximation Condition,B.Probably Approximately Correct,C.Partially Accurate Classification,D.Predefined Accuracy Criterion
+30,Which of the following is not a part of machine learning?,A.Supervised learning,B.Reinforcement learning,C.Unsupervised learning,D.Deep learning
+31,What does K stand for in the K-means algorithm?,A.Kernels,B.Key features,C.Knowledge,D.Number of clusters
+32,In clustering method which takes care of variance in dat,A.a. K-means clustering,B.DBSCAN,C.Agglomerative clustering,D.Mean shift clustering
+33,Which of the following terms is used in machine learning algorithms to build a model based sample data?,A.Training set,B.Validation set,C.Testing set,D.Hyperparameters
+34,Which of the following does not belong to supervised learning?,A.Linear regression,B.Support vector machines,C.K-nearest neighbors,D.k-means clustering
+35,What is unsupervised learning?,A.Learning without a teacher or labels,B.Learning with a teacher providing labels,C.Learning with reinforcement signals,D.Learning with both labeled and unlabeled data
+36,Which of the following is not a machine learning algorithm?,A.Random forest,B.Logistic regression,C.Decision tree,D.Binary search
+37,Which of the following is not belong to machine learning?,A.Rule-based systems,B.Expert systems,C.Genetic algorithms,D.Decision trees
+38,Which of the methods is used for trainControl resampling.,A.K-fold cross-validation,B.Grid search,C.Gradient descent,D.Principal component analysis
+39,Choose the one that produces the most popular graph kinds.,A.Matplotlib,B.Scikit-learn,C.TensorFlow,D.PyTorch
+40,"What is the name of the procedure, where a machine learning model’s parameters are changed to enhance its performance on a training dataset?",A.Feature engineering,B.Model evaluation,C.Model training,D.Model optimization
+41,What is bagging in ensemble learning?,A.Combining multiple models by averaging their predictions,B.Training multiple models independently on different subsets of the training data,C.Using a single model to make predictions,D.None of the above
+42,Which of the following is a disadvantage of decision trees?,A.Prone to overfitting,B.Difficulty in handling continuous data,C.Lack of interpretability,D.None of the above
+43,Which statement is true for Machine Learning?,A.It is a field of study within computer science,B.It involves developing algorithms that can learn from and make predictions or decisions based on data,"C.It is used in various applications such as image recognition, natural language processing, and recommendation systems",D.All of the above
+44,Which of the following machine learning techniques helps to detect outliers in data?,A.Principal Component Analysis (PCa.,B.Support Vector Machines (SVM),C.k-Nearest Neighbors (k-NN),D.Linear Regression
+45,__________ is ignored by the FIND-S algorithm.,A.Noise in the data,B.Attributes not present in the training data,C.Incomplete training data,D.All of the above
+46,Select the correct definition of neuro software.,A.Software used for simulating neural networks,B.Software used for natural language processing,C.Software used for data visualization,D.Software used for speech recognition
+47,What are the backpropagation rule’s restrictions from the following.,A.It can get stuck in local optima,B.It requires labeled training data,C.It can be computationally expensive for large networks,D.All of the above
+48,The important stage of a genetic algorithm is ____________.,A.Selection,B.Crossover,C.Mutation,D.Fitness evaluation
+49,Which of the following types of problems related to machine learning are frequently encountered?,A.Classification,B.Regression,C.Clustering,D.All of the above
+50,What is regression ___________.,A.Regression is a type of supervised learning.,"B.In regression, the target variable is discrete.",C.Regression is used to predict continuous values.,D.Linear regression is a popular regression algorithm.
+51,Identify the successful applications of machine learning.,A.Image recognition,B.Natural language processing,C.Fraud detection,D.All of the above
+52,Look for the numerical functions in the various machine learning functions that are erroneous.,A.Activation functions,B.Loss functions,C.Cost functions,D.Evaluation functions
